@@ -1,0 +1,63 @@
+.body {
+  font-family: 'Karla' ;
+  width: 1600px;
+}
+
+.ro {
+font-size: 30px;;
+  font-family: 'Karla' ;
+  padding-top: 08px; padding-bottom: 30px;
+  height: auto;
+}
+
+.rto {
+font-size: 20px;;
+  font-family: 'Karla' ;
+  height: 15em;
+  background-color:hsl(179, 62%, 43%);
+  width: 50%;
+  display: inline-block;
+  float: left;
+  padding-bottom: 16px;
+}
+
+.rtt {
+font-size: 20px;
+  font-family: 'Karla' ;
+  background-color:#51dacf;
+  width: 50%;
+  display: inline-block;
+  height: 15em;
+  padding-bottom: 16px;
+  float: right;
+}
+.one{
+  margin-left: 100px;
+}
+.two{
+  font-family: 'Karla' ;
+  color:white;
+}
+
+
+.myButton {
+	background-color:hsl(71, 73%, 54%);
+	border-radius:14px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+    padding: 10px 120px;
+	text-decoration:none;
+  margin-top: 10px;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.c{
+  align-items: center;
+}
